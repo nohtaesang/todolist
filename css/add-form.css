@@ -1,0 +1,21 @@
+#add-form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 30px;
+}
+#add-form #add-input {
+	width: 80%;
+	height: 100%;
+	border-radius: 5px 0px 0px 5px;
+	border-color: rgb(216, 216, 216);
+	border-style: solid;
+	border-width: 1px;
+	border-right-width: 0px;
+}
+#add-form #add-btn {
+	width: 20%;
+	height: 100%;
+	border-radius: 0px 5px 5px 0px;
+}
