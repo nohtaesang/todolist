@@ -13,8 +13,7 @@ html, css, javascript
 ## Screenshots
 실제 사용 모습
 
-![full](https://user-images.githubusercontent.com/31440203/54866425-c5d57c80-4db6-11e9-8862-1916d6d990ac.gif)
-<br><br><br>
+![ezgif-2-c67b47be6e20](https://user-images.githubusercontent.com/31440203/54866624-91af8b00-4db9-11e9-9be3-25946775e420.gif)
 
 1. 첫 화면
 
