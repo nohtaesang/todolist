@@ -1,5 +1,4 @@
-![full](https://user-images.githubusercontent.com/31440203/54866425-c5d57c80-4db6-11e9-8862-1916d6d990ac.gif)
-
+![full](https://user-images.githubusercontent.com/31440203/54866425-c5d57c80-4db6-11e9-8862-1916d6d990ac.gif){:.aligncenter}
 
 ![1](https://user-images.githubusercontent.com/31440203/54866419-c53ce600-4db6-11e9-9b17-c8459af33542.png)
 ![2](https://user-images.githubusercontent.com/31440203/54866420-c53ce600-4db6-11e9-8303-83485b5610ca.png)
